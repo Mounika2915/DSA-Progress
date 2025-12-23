@@ -25,4 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
