@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mounika2915/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
