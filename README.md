@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mounika2915/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
