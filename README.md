@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mounika2915/DSA-Progress/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mounika2915/DSA-Progress/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mounika2915/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Mounika2915/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
