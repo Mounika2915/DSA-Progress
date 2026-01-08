@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Mounika2915/DSA-Progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mounika2915/DSA-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mounika2915/DSA-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mounika2915/DSA-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
