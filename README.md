@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
+| [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,14 +130,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
