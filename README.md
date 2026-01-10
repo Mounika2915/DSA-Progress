@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mounika2915/DSA-Progress/tree/master/1052-grumpy-bookstore-owner) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mounika2915/DSA-Progress/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mounika2915/DSA-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
