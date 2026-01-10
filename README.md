@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mounika2915/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mounika2915/DSA-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mounika2915/DSA-Progress/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
