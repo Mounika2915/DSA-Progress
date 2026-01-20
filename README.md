@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mounika2915/DSA-Progress/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mounika2915/DSA-Progress/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mounika2915/DSA-Progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2109-adding-spaces-to-a-string) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mounika2915/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mounika2915/DSA-Progress/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mounika2915/DSA-Progress/tree/master/1052-grumpy-bookstore-owner) |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
