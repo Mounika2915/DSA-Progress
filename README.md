@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mounika2915/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mounika2915/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Mounika2915/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Mounika2915/DSA-Progress/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mounika2915/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
