@@ -174,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
