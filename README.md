@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 ## Counting
 |  |
 | ------- |
