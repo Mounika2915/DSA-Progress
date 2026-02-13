@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mounika2915/DSA-Progress/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mounika2915/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
