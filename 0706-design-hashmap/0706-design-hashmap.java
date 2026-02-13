@@ -46,6 +46,11 @@ class MyHashMap {
             prev.next.value = value ; 
         }else{
             prev.next = new Node(key , value);
+            size++;
+        }
+
+        if((float) size == (DEFAULT_CAPACITY * LOAD_FACTOR)){
+            resize() ; 
         }
 
     }
@@ -79,6 +84,22 @@ class MyHashMap {
             return ; 
         }else {
             prev.next = prev.next.next ; 
+            size--;
+        }
+    }
+    
+    private void resize(){
+        Node[] oldBuckets = buckets ; 
+        buckets = new Node[oldBuckets.length * 2] ;
+        size = 0 ;  
+
+        for(Node head : oldBuckets){
+            if(head == null) continue ; 
+            Node curr = head ; 
+            while(curr != null){
+                put(curr.key , curr.value) ; 
+                curr = curr.next ; 
+            }
         }
     }
 }
