@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Mounika2915/DSA-Progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
