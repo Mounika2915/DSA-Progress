@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Mounika2915/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mounika2915/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Mounika2915/DSA-Progress/tree/master/0049-group-anagrams) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mounika2915/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
