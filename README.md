@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mounika2915/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mounika2915/DSA-Progress/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mounika2915/DSA-Progress/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mounika2915/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0540-single-element-in-a-sorted-array) |
