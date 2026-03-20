@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mounika2915/DSA-Progress/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mounika2915/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mounika2915/DSA-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Mounika2915/DSA-Progress/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Mounika2915/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0540-single-element-in-a-sorted-array) |
@@ -398,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
