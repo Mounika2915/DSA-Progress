@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Mounika2915/DSA-Progress/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mounika2915/DSA-Progress/tree/master/1248-count-number-of-nice-subarrays) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mounika2915/DSA-Progress/tree/master/0169-majority-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Divide and Conquer
 |  |
