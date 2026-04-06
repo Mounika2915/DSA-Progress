@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mounika2915/DSA-Progress/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
 |  |
 | ------- |
