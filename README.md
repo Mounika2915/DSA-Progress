@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mounika2915/DSA-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mounika2915/DSA-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mounika2915/DSA-Progress/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mounika2915/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mounika2915/DSA-Progress/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Mounika2915/DSA-Progress/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Mounika2915/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Mounika2915/DSA-Progress/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0766-toeplitz-matrix) |
