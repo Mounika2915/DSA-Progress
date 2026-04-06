@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
+| [0498-diagonal-traverse](https://github.com/Mounika2915/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mounika2915/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0658-find-k-closest-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Mounika2915/DSA-Progress/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Mounika2915/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/Mounika2915/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/Mounika2915/DSA-Progress/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
