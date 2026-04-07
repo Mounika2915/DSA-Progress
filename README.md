@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mounika2915/DSA-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/Mounika2915/DSA-Progress/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/Mounika2915/DSA-Progress/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Mounika2915/DSA-Progress/tree/master/1207-unique-number-of-occurrences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mounika2915/DSA-Progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
+| [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mounika2915/DSA-Progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mounika2915/DSA-Progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mounika2915/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mounika2915/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mounika2915/DSA-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mounika2915/DSA-Progress/tree/master/0014-longest-common-prefix) |
+| [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 ## Math
 |  |
 | ------- |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 ## Linked List
 |  |
