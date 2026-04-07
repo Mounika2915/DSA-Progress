@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mounika2915/DSA-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mounika2915/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mounika2915/DSA-Progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Mounika2915/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2109-adding-spaces-to-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mounika2915/DSA-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
