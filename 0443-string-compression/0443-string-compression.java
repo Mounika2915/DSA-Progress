@@ -1,23 +1,29 @@
 class Solution {
     public int compress(char[] chars) {
-        int n= chars.length ;
-        int r = 0 , count = 0 , l = 0 ;
-        while(r < n){
-            char curr = chars[r];
-            while(r < n  && curr == chars[r]){
-                r++;
-                count++;
-            }
-            chars[l] = curr ;
-            l++;
-            if(count != 1){
-                for(char val : String.valueOf(count).toCharArray()){
-                    chars[l] = val ;
-                    l++;
+        int idx = 0 ; 
+        int l = 0 , r = 0 ;
+        while(r < chars.length) {
+            if(chars[l] != chars[r]){
+                chars[idx++] = chars[l] ; 
+                if(r - l > 1){
+                    String num = String.valueOf(r - l) ; 
+                    for(char c : num.toCharArray()){
+                        chars[idx++] = c; 
+                    }
                 }
+                l = r ; 
             }
-            count = 0 ;
+            r++ ; 
         }
-        return l;
+        if(r >= chars.length){
+            chars[idx++] = chars[l] ; 
+            if(r - l > 1){
+               String num = String.valueOf(r - l) ; 
+                for(char c : num.toCharArray()){
+                    chars[idx++] = c; 
+                }
+             }
+        }
+        return idx ; 
     }
 }
