@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Mounika2915/DSA-Progress/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Mounika2915/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
+| [0890-find-and-replace-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mounika2915/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0912-sort-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
+| [0890-find-and-replace-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0890-find-and-replace-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Mounika2915/DSA-Progress/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0930-binary-subarrays-with-sum) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
+| [0890-find-and-replace-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0890-find-and-replace-pattern) |
 | [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mounika2915/DSA-Progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
