@@ -1,25 +1,24 @@
 class Solution {
-    private boolean isValid(int[] piles , int mid , int h){
-        int count = 0 ; 
+    private boolean isValid(int[] piles , int idx , int h){
+        int total = 0 ; 
         for(int i : piles){
-            count += Math.ceil((double)i / mid);
+            total += Math.ceil((double)i / idx);
         }
-        return count <= h;
+        return total <= h ; 
     }
     public int minEatingSpeed(int[] piles, int h) {
-        int max = 0 ; 
+        int l =  1 , r = 1; 
         for(int i : piles){
-            max = Math.max(max , i);
+            r = Math.max(r , i) ; 
         }
-        int ans = max ; 
-        int l = 1 , r = max ; 
-        while(l <= r){
-            int mid = l + (r - l ) /2 ;
-            if(isValid(piles , mid , h)){
+        int ans = r ; 
+        while(l < r){
+            int mid = l + ( r - l ) / 2 ; 
+            if(isValid(piles , mid , h) ){
                 ans = mid ; 
-                r = mid - 1 ;
+                r = mid ; 
             }else{
-                l= mid + 1 ;
+                l = mid  + 1 ; 
             }
         }
         return ans ; 
