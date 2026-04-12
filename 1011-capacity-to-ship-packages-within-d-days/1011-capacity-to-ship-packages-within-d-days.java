@@ -1,37 +1,31 @@
 class Solution {
-    private boolean isValid(int[] weights , int mid , int days){
-        int curr = 0 , count = 0 ; 
-        for(int i = 0 ; i < weights.length ; i++){
-            if(curr + weights[i] > mid){
-                count++ ;
-                curr = weights[i];
-                
+    private boolean isValid(int[] weights , int weight , int days){
+        int currWeight = 0 , d= 0 ; 
+        for(int i : weights){
+            if(currWeight + i <= weight){
+                currWeight += i ;
             }else{
-                curr += weights[i];
+                currWeight = i ; 
+                d++;
             }
         }
-        if(curr != 0 ){
-            count++ ; 
+        if(currWeight > 0){
+            d++;
         }
-        if(count > days){
-            return false ; 
-        }
-        return true  ; 
- 
+        return d <= days;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int l = weights[0] , r = weights[0];
-        for(int i = 1 ; i < weights.length ; i++){
-            l = Math.max(l , weights[i]);
-            r += weights[i];
+        int l = Integer.MIN_VALUE , r = 0 ; 
+        for(int i : weights){
+            l = Math.max(l , i) ; 
+            r += i; 
         }
-         
-        int ans = 0 ;
-        while(l <= r ) {
-            int mid = l + (r - l )/ 2 ;
+        int ans = r ; 
+        while(l < r){
+            int mid = l + (r - l) / 2 ; 
             if(isValid(weights , mid , days)){
                 ans = mid ; 
-                r = mid - 1 ;
+                r = mid ; 
             }else{
                 l = mid + 1 ; 
             }
