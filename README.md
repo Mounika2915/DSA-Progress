@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mounika2915/DSA-Progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mounika2915/DSA-Progress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Mounika2915/DSA-Progress/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mounika2915/DSA-Progress/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Mounika2915/DSA-Progress/tree/master/1208-get-equal-substrings-within-budget) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mounika2915/DSA-Progress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
