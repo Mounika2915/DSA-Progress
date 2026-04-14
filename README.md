@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Mounika2915/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mounika2915/DSA-Progress/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mounika2915/DSA-Progress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mounika2915/DSA-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Mounika2915/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
