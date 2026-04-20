@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mounika2915/DSA-Progress/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mounika2915/DSA-Progress/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Mounika2915/DSA-Progress/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/DSA-Progress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mounika2915/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mounika2915/DSA-Progress/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mounika2915/DSA-Progress/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mounika2915/DSA-Progress/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mounika2915/DSA-Progress/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0202-happy-number) |
@@ -528,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mounika2915/DSA-Progress/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mounika2915/DSA-Progress/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
