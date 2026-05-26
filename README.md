@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mounika2915/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounika2915/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mounika2915/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Mounika2915/DSA-Progress/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounika2915/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
