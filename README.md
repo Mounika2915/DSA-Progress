@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mounika2915/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mounika2915/DSA-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mounika2915/DSA-Progress/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/DSA-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mounika2915/DSA-Progress/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Mounika2915/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0410-split-array-largest-sum) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mounika2915/DSA-Progress/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/DSA-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Mounika2915/DSA-Progress/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0930-binary-subarrays-with-sum) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/DSA-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
