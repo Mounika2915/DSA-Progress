@@ -1,20 +1,17 @@
 class Solution {
     public long dividePlayers(int[] skill) {
-        Arrays.sort(skill);
-        int n = skill.length ;
-         int l = 0 , r = n -1;
-        long total = skill[l] * skill[r];
-        int sum = skill[l] + skill[r];
-        l++;
-        r--;
-        while(l < r){
-            int curr = skill[l] + skill[r];
-            if(curr != sum){
-                return -1;
+        Arrays.sort(skill) ; 
+        int diff = skill[0] + skill[skill.length-1] ; 
+        long total = skill[0] * skill[skill.length-1] ; 
+        int i = 1 , j = skill.length - 2 ; 
+        while(i < j){
+            if(diff != skill[i] + skill[j]){
+                return -1 ; 
             }
-            total += (skill[l] * skill[r]);
-            l++;
-            r--;
+        
+            total = total +  (skill[i] * skill[j]) ;
+            i++;
+            j--;
         }
         return total;
     }
