@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mounika2915/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mounika2915/DSA-Progress/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Mounika2915/DSA-Progress/tree/master/1051-height-checker) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mounika2915/DSA-Progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mounika2915/DSA-Progress/tree/master/1552-magnetic-force-between-two-balls) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mounika2915/DSA-Progress/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Mounika2915/DSA-Progress/tree/master/0948-bag-of-tokens) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Mounika2915/DSA-Progress/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mounika2915/DSA-Progress/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mounika2915/DSA-Progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mounika2915/DSA-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mounika2915/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mounika2915/DSA-Progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mounika2915/DSA-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mounika2915/DSA-Progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mounika2915/DSA-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
