@@ -1,14 +1,14 @@
 class Solution {
     public int equalSubstring(String s, String t, int maxCost) {
-        int  max = 0 , l = 0 , cost = 0 ; 
-        for(int i = 0 ; i < s.length() ;i++){
-            cost += Math.abs(s.charAt(i) - t.charAt(i));
+        int max = 0 , cost = 0 , l = 0 ;
+        for(int r = 0 ; r < s.length() ;r++){
+            cost += Math.abs(s.charAt(r) - t.charAt(r)) ; 
             while(cost > maxCost){
-                cost -= Math.abs(s.charAt(l)-t.charAt(l));
+                cost -= Math.abs(s.charAt(l) - t.charAt(l));
                 l++;
             }
-            max = Math.max(max , i - l + 1);
-        }
+            max = Math.max(max , r - l + 1) ; 
+        } 
         return max ; 
     }
 }
