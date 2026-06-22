@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Mounika2915/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mounika2915/DSA-Progress/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3208-alternating-groups-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/3208-alternating-groups-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Mounika2915/DSA-Progress/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mounika2915/DSA-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mounika2915/DSA-Progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/3208-alternating-groups-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Mounika2915/DSA-Progress/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
