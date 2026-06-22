@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mounika2915/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mounika2915/DSA-Progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mounika2915/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Mounika2915/DSA-Progress/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mounika2915/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mounika2915/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mounika2915/DSA-Progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mounika2915/DSA-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mounika2915/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mounika2915/DSA-Progress/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/3208-alternating-groups-ii) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Mounika2915/DSA-Progress/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
