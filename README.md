@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Mounika2915/DSA-Progress/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1598-crawler-log-folder](https://github.com/Mounika2915/DSA-Progress/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mounika2915/DSA-Progress/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mounika2915/DSA-Progress/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mounika2915/DSA-Progress/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mounika2915/DSA-Progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/DSA-Progress/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1598-crawler-log-folder](https://github.com/Mounika2915/DSA-Progress/tree/master/1598-crawler-log-folder) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Mounika2915/DSA-Progress/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mounika2915/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/Mounika2915/DSA-Progress/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
+| [1598-crawler-log-folder](https://github.com/Mounika2915/DSA-Progress/tree/master/1598-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
