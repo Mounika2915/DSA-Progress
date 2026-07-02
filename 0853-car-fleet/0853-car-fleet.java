@@ -1,16 +1,15 @@
 class Solution {
     public int carFleet(int target, int[] position, int[] speed) {
-        int n = position.length ;
-        double[][] res = new double[n][2];
-        for(int i =0 ; i< n ; i++){
-            res[i][0] = position[i];
-            res[i][1] = (double) ( target - position[i]) / speed[i];
+        double[][] dist = new double[position.length][2] ; 
+        for(int i = 0 ; i < position.length ; i++){
+            dist[i][0] =  position[i]; 
+            dist[i][1] = (double)(target - position[i]) / speed[i] ; 
         }
-        Arrays.sort(res , (a,b) -> Double.compare(b[0] , a[0]));
-        double prevTime = 0 ;int  count = 0 ;
-        for(int i = 0 ;  i < n ;i++){
-            if(prevTime < res[i][1]){
-                prevTime = res[i][1];
+        Arrays.sort(dist , (a, b) -> Double.compare(b[0] , a[0])) ; 
+        int count = 1 ;double prev = dist[0][1] ; 
+        for(int i = 1 ; i < dist.length ; i++){
+            if(dist[i][1] > prev){
+                prev = dist[i][1]; 
                 count++;
             }
         }
