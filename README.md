@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mounika2915/DSA-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mounika2915/DSA-Progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Mounika2915/DSA-Progress/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mounika2915/DSA-Progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/3174-clear-digits) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Two Pointers
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Mounika2915/DSA-Progress/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mounika2915/DSA-Progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
