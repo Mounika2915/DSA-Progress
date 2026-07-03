@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Mounika2915/DSA-Progress/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounika2915/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0434-number-of-segments-in-a-string) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Mounika2915/DSA-Progress/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mounika2915/DSA-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mounika2915/DSA-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mounika2915/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mounika2915/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
