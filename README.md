@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mounika2915/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Mounika2915/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Mounika2915/DSA-Progress/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mounika2915/DSA-Progress/tree/master/0424-longest-repeating-character-replacement) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mounika2915/DSA-Progress/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mounika2915/DSA-Progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0394-decode-string) |
 ## Ordered Set
 |  |
 | ------- |
