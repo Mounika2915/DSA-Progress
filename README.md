@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Mounika2915/DSA-Progress/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Mounika2915/DSA-Progress/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/Mounika2915/DSA-Progress/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mounika2915/DSA-Progress/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mounika2915/DSA-Progress/tree/master/1004-max-consecutive-ones-iii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mounika2915/DSA-Progress/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Mounika2915/DSA-Progress/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Mounika2915/DSA-Progress/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/Mounika2915/DSA-Progress/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mounika2915/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mounika2915/DSA-Progress/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mounika2915/DSA-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Mounika2915/DSA-Progress/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/Mounika2915/DSA-Progress/tree/master/0962-maximum-width-ramp) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mounika2915/DSA-Progress/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mounika2915/DSA-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/DSA-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mounika2915/DSA-Progress/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mounika2915/DSA-Progress/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Mounika2915/DSA-Progress/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Mounika2915/DSA-Progress/tree/master/0962-maximum-width-ramp) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/DSA-Progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
