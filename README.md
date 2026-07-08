@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0456-132-pattern) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Mounika2915/DSA-Progress/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Mounika2915/DSA-Progress/tree/master/0735-asteroid-collision) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -677,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mounika2915/DSA-Progress/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
