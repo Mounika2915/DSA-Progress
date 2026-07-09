@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
