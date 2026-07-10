@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/Mounika2915/DSA-Progress/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/1408-string-matching-in-an-array) |
 ## Linked List
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 ## Quickselect
 |  |
@@ -700,5 +704,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
