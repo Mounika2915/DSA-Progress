@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
 | ------- |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 ## Data Stream
 |  |
 | ------- |
@@ -719,4 +722,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
