@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mounika2915/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mounika2915/DSA-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mounika2915/DSA-Progress/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mounika2915/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mounika2915/DSA-Progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Mounika2915/DSA-Progress/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mounika2915/DSA-Progress/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mounika2915/DSA-Progress/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Mounika2915/DSA-Progress/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Design
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Data Stream
 |  |
