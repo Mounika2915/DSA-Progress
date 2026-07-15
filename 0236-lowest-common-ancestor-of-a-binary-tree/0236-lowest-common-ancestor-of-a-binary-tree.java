@@ -25,17 +25,36 @@ class Solution {
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         
-        ArrayList<TreeNode> pList = new ArrayList<>() ; 
-        findNode(root , p , pList) ; 
+        // ArrayList<TreeNode> pList = new ArrayList<>() ; 
+        // findNode(root , p , pList) ; 
  
-        ArrayList<TreeNode> qList = new ArrayList<>() ; 
-        findNode(root , q, qList) ; 
-        TreeNode ans = null ; 
-        for(int i = 0 ; i < pList.size() && i < qList.size() ; i++){
-            if(pList.get(i).val == qList.get(i).val){
-                ans = pList.get(i);
-            }
+        // ArrayList<TreeNode> qList = new ArrayList<>() ; 
+        // findNode(root , q, qList) ; 
+        // TreeNode ans = null ; 
+        // for(int i = 0 ; i < pList.size() && i < qList.size() ; i++){
+        //     if(pList.get(i).val == qList.get(i).val){
+        //         ans = pList.get(i);
+        //     }
+        // }
+        // return ans ; 
+
+
+
+        if(root == null || root == p || root == q){
+            return root ; 
         }
-        return ans ; 
+
+        TreeNode left = lowestCommonAncestor(root.left , p , q) ; 
+        TreeNode right = lowestCommonAncestor(root.right , p , q) ; 
+
+        if(left != null && right != null){
+            return root ; 
+        }
+
+        return left != null ? left : right ; 
+
+
+
+
     }
 }
