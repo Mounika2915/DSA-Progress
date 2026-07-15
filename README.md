@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mounika2915/DSA-Progress/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Mounika2915/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Mounika2915/DSA-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0890-find-and-replace-pattern](https://github.com/Mounika2915/DSA-Progress/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mounika2915/DSA-Progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/DSA-Progress/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Mounika2915/DSA-Progress/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0606-construct-string-from-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
