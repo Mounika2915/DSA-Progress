@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mounika2915/DSA-Progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mounika2915/DSA-Progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mounika2915/DSA-Progress/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mounika2915/DSA-Progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Mounika2915/DSA-Progress/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Mounika2915/DSA-Progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0206-reverse-linked-list) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mounika2915/DSA-Progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Mounika2915/DSA-Progress/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mounika2915/DSA-Progress/tree/master/0322-coin-change) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Mounika2915/DSA-Progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Mounika2915/DSA-Progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/0572-subtree-of-another-tree) |
