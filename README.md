@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mounika2915/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Mounika2915/DSA-Progress/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mounika2915/DSA-Progress/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0617-merge-two-binary-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -759,4 +762,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Mounika2915/DSA-Progress/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/Mounika2915/DSA-Progress/tree/master/0938-range-sum-of-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Mounika2915/DSA-Progress/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
