@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mounika2915/DSA-Progress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mounika2915/DSA-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Mounika2915/DSA-Progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Mounika2915/DSA-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Mounika2915/DSA-Progress/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Mounika2915/DSA-Progress/tree/master/3174-clear-digits) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Mounika2915/DSA-Progress/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Mounika2915/DSA-Progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Mounika2915/DSA-Progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mounika2915/DSA-Progress/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
